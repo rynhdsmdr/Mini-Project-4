@@ -1,6 +1,8 @@
 Nama    : Riyan Hadi Samudra
 NPM     : 2308107010068
 
+Link Presentasi : https://youtu.be/SgcjbcDH5Jw
+
 Sistem Booking Lapangan Olahraga
 1. Deskripsi Singkat Aplikasi
 Sistem Booking Lapangan Olahraga adalah aplikasi web berbasis Laravel yang dirancang untuk memfasilitasi proses pemesanan lapangan olahraga secara online. Aplikasi ini memungkinkan pengguna terdaftar untuk mencari dan memesan lapangan yang tersedia, sementara administrator memiliki kontrol penuh atas pengelolaan data lapangan, kategori lapangan, dan semua transaksi booking. Fokus utama aplikasi adalah pada kemudahan penggunaan, validasi data yang ketat, dan manajemen booking yang efisien, dengan antarmuka yang bersih dan responsif.
