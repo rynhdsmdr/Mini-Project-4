@@ -1,7 +1,7 @@
 Nama    : Riyan Hadi Samudra
 NPM     : 2308107010068
 
-Link Presentasi : https://youtu.be/SgcjbcDH5Jw
+Link Presentasi : https://youtu.be/ADwZGuCqsa4
 
 Sistem Booking Lapangan Olahraga
 1. Deskripsi Singkat Aplikasi
